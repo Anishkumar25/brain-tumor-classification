@@ -100,8 +100,6 @@ cd brain-tumor-classification-efficientnetb2
 Install required libraries
 
 ```
-pip install -r requirements.txt
-```
 
 Run the training notebook
 
